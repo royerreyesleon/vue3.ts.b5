@@ -1,0 +1,9 @@
+npm init vue@latest
+project name: vue3-ts
+cd vue3-ts
+npm install
+npm run dev
+
+git init
+git add .
+git commit -m "init project"

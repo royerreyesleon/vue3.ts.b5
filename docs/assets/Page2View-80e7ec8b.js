@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o as t,c}from"./index-487aaab7.js";const o={},r={class:"text-center"};function s(n,_){return t(),c("h1",r,"PAGE 2")}const i=e(o,[["render",s]]);export{i as default};
